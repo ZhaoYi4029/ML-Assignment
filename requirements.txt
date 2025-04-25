@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+scikit-learn==1.2.2
+langchain==0.0.148acbook 
+boto3
+matplotlib
+plotly
+scipy
+
